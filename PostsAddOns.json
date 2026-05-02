@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 158,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 2,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 206,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 3,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 164,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 4,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 190,
+    "languageISOcode": "PL",
+    "subcategory_id": 7
+  },
+  {
+    "id": 5,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 147,
+    "languageISOcode": "SK",
+    "subcategory_id": 6
+  },
+  {
+    "id": 6,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 194,
+    "languageISOcode": "PL",
+    "subcategory_id": 5
+  },
+  {
+    "id": 7,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 145,
+    "languageISOcode": "ES",
+    "subcategory_id": 4
+  },
+  {
+    "id": 8,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 176,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 9,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 136,
+    "languageISOcode": "CZ",
+    "subcategory_id": 2
+  },
+  {
+    "id": 10,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 129,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 11,
+    "creation_time": "2025-01-01T01:01:01.110",
+    "closure_time": "2025-01-03T01:01:01.110",
+    "completed": true,
+    "characters_length": 169,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 12,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 152,
+    "languageISOcode": "PL",
+    "subcategory_id": 5
+  },
+  {
+    "id": 13,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 225,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 14,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 144,
+    "languageISOcode": "PL",
+    "subcategory_id": 4
+  },
+  {
+    "id": 15,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 151,
+    "languageISOcode": "CZ",
+    "subcategory_id": 6
+  },
+  {
+    "id": 16,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 185,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 17,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 136,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 18,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 111,
+    "languageISOcode": "PL",
+    "subcategory_id": 2
+  },
+  {
+    "id": 19,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 143,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 20,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 213,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 21,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 164,
+    "languageISOcode": "CZ",
+    "subcategory_id": 4
+  },
+  {
+    "id": 22,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 128,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 23,
+    "creation_time": "2025-02-02T02:02:02.223",
+    "closure_time": "2025-02-06T02:02:02.223",
+    "completed": true,
+    "characters_length": 163,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 24,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 144,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 25,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 147,
+    "languageISOcode": "SK",
+    "subcategory_id": 6
+  },
+  {
+    "id": 26,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 174,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 27,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 190,
+    "languageISOcode": "CZ",
+    "subcategory_id": 2
+  },
+  {
+    "id": 28,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 141,
+    "languageISOcode": "PL",
+    "subcategory_id": 4
+  },
+  {
+    "id": 29,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 147,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 30,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 140,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 31,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 176,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 32,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 190,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 33,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 136,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 34,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 212,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 35,
+    "creation_time": "2025-03-03T03:03:03.333",
+    "closure_time": "2025-03-09T03:03:03.333",
+    "completed": true,
+    "characters_length": 176,
+    "languageISOcode": "SK",
+    "subcategory_id": 4
+  },
+  {
+    "id": 71,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 138,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 36,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 205,
+    "languageISOcode": "PL",
+    "subcategory_id": 2
+  },
+  {
+    "id": 37,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 176,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 38,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 202,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 39,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 182,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 40,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 168,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 41,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 181,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 42,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 176,
+    "languageISOcode": "PL",
+    "subcategory_id": 4
+  },
+  {
+    "id": 43,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 190,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 44,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 163,
+    "languageISOcode": "PL",
+    "subcategory_id": 7
+  },
+  {
+    "id": 45,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 121,
+    "languageISOcode": "CZ",
+    "subcategory_id": 2
+  },
+  {
+    "id": 46,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": "2025-04-16T04:04:04.443",
+    "completed": true,
+    "characters_length": 113,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 47,
+    "creation_time": "2025-04-04T04:04:04.443",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 171,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 48,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 159,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 49,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 158,
+    "languageISOcode": "ES",
+    "subcategory_id": 4
+  },
+  {
+    "id": 50,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 193,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 51,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 122,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 52,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 164,
+    "languageISOcode": "PL",
+    "subcategory_id": 7
+  },
+  {
+    "id": 53,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 168,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 54,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 131,
+    "languageISOcode": "PL",
+    "subcategory_id": 2
+  },
+  {
+    "id": 55,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 147,
+    "languageISOcode": "SK",
+    "subcategory_id": 6
+  },
+  {
+    "id": 56,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 156,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 57,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 131,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 58,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 123,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 59,
+    "creation_time": "2025-05-05T05:05:05.557",
+    "closure_time": "2025-05-19T05:05:05.557",
+    "completed": true,
+    "characters_length": 197,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 60,
+    "creation_time": "2025-06-06T06:06:06.667",
+    "closure_time": "2025-06-22T06:06:06.667",
+    "completed": true,
+    "characters_length": 131,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 61,
+    "creation_time": "2025-06-06T06:06:06.667",
+    "closure_time": "2025-06-22T06:06:06.667",
+    "completed": true,
+    "characters_length": 171,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 62,
+    "creation_time": "2025-06-06T06:06:06.667",
+    "closure_time": "2025-06-22T06:06:06.667",
+    "completed": true,
+    "characters_length": 171,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 63,
+    "creation_time": "2025-06-06T06:06:06.667",
+    "closure_time": "2025-06-22T06:06:06.667",
+    "completed": true,
+    "characters_length": 207,
+    "languageISOcode": "CZ",
+    "subcategory_id": 2
+  },
+  {
+    "id": 64,
+    "creation_time": "2025-06-06T06:06:06.667",
+    "closure_time": "2025-06-22T06:06:06.667",
+    "completed": true,
+    "characters_length": 128,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 65,
+    "creation_time": "2025-07-07T07:07:07.777",
+    "closure_time": "2025-07-25T07:07:07.777",
+    "completed": true,
+    "characters_length": 173,
+    "languageISOcode": "SK",
+    "subcategory_id": 6
+  },
+  {
+    "id": 66,
+    "creation_time": "2025-07-07T07:07:07.777",
+    "closure_time": "2025-07-25T07:07:07.777",
+    "completed": true,
+    "characters_length": 147,
+    "languageISOcode": "PL",
+    "subcategory_id": 5
+  },
+  {
+    "id": 67,
+    "creation_time": "2025-07-07T07:07:07.777",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 162,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 68,
+    "creation_time": "2025-07-07T07:07:07.777",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 131,
+    "languageISOcode": "PL",
+    "subcategory_id": 7
+  },
+  {
+    "id": 69,
+    "creation_time": "2025-07-07T07:07:07.777",
+    "closure_time": "2025-07-25T07:07:07.777",
+    "completed": true,
+    "characters_length": 218,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 70,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 127,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 72,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 176,
+    "languageISOcode": "PL",
+    "subcategory_id": 2
+  },
+  {
+    "id": 73,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 171,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 74,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 182,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 75,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 196,
+    "languageISOcode": "CZ",
+    "subcategory_id": 6
+  },
+  {
+    "id": 76,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 102,
+    "languageISOcode": "PL",
+    "subcategory_id": 7
+  },
+  {
+    "id": 77,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 186,
+    "languageISOcode": "ES",
+    "subcategory_id": 4
+  },
+  {
+    "id": 78,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 117,
+    "languageISOcode": "PL",
+    "subcategory_id": 5
+  },
+  {
+    "id": 79,
+    "creation_time": "2025-08-08T08:08:08.887",
+    "closure_time": "2025-08-28T08:08:08.887",
+    "completed": true,
+    "characters_length": 158,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 80,
+    "creation_time": "2025-09-09T09:09:10.000",
+    "closure_time": "2025-09-29T09:09:10.000",
+    "completed": true,
+    "characters_length": 180,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 81,
+    "creation_time": "2025-09-09T09:09:10.000",
+    "closure_time": "2025-09-29T09:09:10.000",
+    "completed": true,
+    "characters_length": 198,
+    "languageISOcode": "CZ",
+    "subcategory_id": 2
+  },
+  {
+    "id": 82,
+    "creation_time": "2025-09-09T09:09:10.000",
+    "closure_time": "2025-09-29T09:09:10.000",
+    "completed": true,
+    "characters_length": 179,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 83,
+    "creation_time": "2025-09-09T09:09:10.000",
+    "closure_time": "2025-09-29T09:09:10.000",
+    "completed": true,
+    "characters_length": 182,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 84,
+    "creation_time": "2025-09-09T09:09:10.000",
+    "closure_time": "2025-09-29T09:09:10.000",
+    "completed": true,
+    "characters_length": 134,
+    "languageISOcode": "PL",
+    "subcategory_id": 4
+  },
+  {
+    "id": 85,
+    "creation_time": "2025-10-10T10:10:11.000",
+    "closure_time": "2025-10-30T10:10:11.000",
+    "completed": true,
+    "characters_length": 167,
+    "languageISOcode": "SK",
+    "subcategory_id": 6
+  },
+  {
+    "id": 86,
+    "creation_time": "2025-10-10T10:10:11.000",
+    "closure_time": "2025-10-30T10:10:11.000",
+    "completed": true,
+    "characters_length": 171,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 87,
+    "creation_time": "2025-10-10T10:10:11.000",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 106,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 88,
+    "creation_time": "2025-10-10T10:10:11.000",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 106,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 89,
+    "creation_time": "2025-10-10T10:10:11.000",
+    "closure_time": "2025-10-30T10:10:11.000",
+    "completed": true,
+    "characters_length": 152,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 90,
+    "creation_time": "2025-11-11T11:11:12.000",
+    "closure_time": "2025-11-30T11:11:12.000",
+    "completed": true,
+    "characters_length": 151,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  },
+  {
+    "id": 91,
+    "creation_time": "2025-11-11T11:11:12.000",
+    "closure_time": "2025-11-30T11:11:12.000",
+    "completed": true,
+    "characters_length": 155,
+    "languageISOcode": "ES",
+    "subcategory_id": 4
+  },
+  {
+    "id": 92,
+    "creation_time": "2025-11-11T11:11:12.000",
+    "closure_time": "2025-11-30T11:11:12.000",
+    "completed": true,
+    "characters_length": 135,
+    "languageISOcode": "PL",
+    "subcategory_id": 7
+  },
+  {
+    "id": 93,
+    "creation_time": "2025-11-11T11:11:12.000",
+    "closure_time": "2025-11-30T11:11:12.000",
+    "completed": true,
+    "characters_length": 177,
+    "languageISOcode": "CZ",
+    "subcategory_id": 8
+  },
+  {
+    "id": 94,
+    "creation_time": "2025-11-11T11:11:12.000",
+    "closure_time": "2025-11-30T11:11:12.000",
+    "completed": true,
+    "characters_length": 167,
+    "languageISOcode": "PL",
+    "subcategory_id": 9
+  },
+  {
+    "id": 95,
+    "creation_time": "2025-12-12T12:12:12.000",
+    "closure_time": "2025-12-31T12:12:12.000",
+    "completed": true,
+    "characters_length": 195,
+    "languageISOcode": "SK",
+    "subcategory_id": 6
+  },
+  {
+    "id": 96,
+    "creation_time": "2025-12-12T12:12:12.000",
+    "closure_time": "2025-12-31T12:12:12.000",
+    "completed": true,
+    "characters_length": 128,
+    "languageISOcode": "PL",
+    "subcategory_id": 3
+  },
+  {
+    "id": 97,
+    "creation_time": "2025-12-12T12:12:12.000",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 215,
+    "languageISOcode": "IT",
+    "subcategory_id": 3
+  },
+  {
+    "id": 98,
+    "creation_time": "2025-12-12T12:12:12.000",
+    "closure_time": null,
+    "completed": false,
+    "characters_length": 120,
+    "languageISOcode": "PL",
+    "subcategory_id": 4
+  },
+  {
+    "id": 99,
+    "creation_time": "2025-12-12T12:12:12.000",
+    "closure_time": "2025-12-31T12:12:12.000",
+    "completed": true,
+    "characters_length": 109,
+    "languageISOcode": "CZ",
+    "subcategory_id": 2
+  },
+  {
+    "id": 100,
+    "creation_time": "2025-12-12T12:12:12.000",
+    "closure_time": "2025-12-31T12:12:12.000",
+    "completed": true,
+    "characters_length": 146,
+    "languageISOcode": "PL",
+    "subcategory_id": 1
+  }
+]
